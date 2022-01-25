@@ -1,0 +1,471 @@
+
+/* Class = "UILabel"; text = "35/40"; ObjectID = "08n-Od-2R1"; */
+"08n-Od-2R1.text" = "35/40";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0BC-p1-bMD"; */
+"0BC-p1-bMD.text" = "Label";
+
+/* Class = "UILabel"; text = "Үлкейтуге болады"; ObjectID = "2He-Ih-Fd7"; */
+"2He-Ih-Fd7.text" = "Можете увеличить";
+
+/* Class = "UINavigationItem"; title = "Өзгерту"; ObjectID = "3GU-dZ-nZN"; */
+"3GU-dZ-nZN.title" = "Изменить";
+
+/* Class = "UILabel"; text = "35/40"; ObjectID = "3Nm-y0-qdH"; */
+"3Nm-y0-qdH.text" = "35/40";
+
+/* Class = "UIButton"; normalTitle = "МҰРАҒАТ"; ObjectID = "43g-CP-3c3"; */
+"43g-CP-3c3.normalTitle" = "АРХИВ";
+
+/* Class = "UIButton"; normalTitle = "БАСҚА ПӘН ТАҢДАУ"; ObjectID = "4lC-0U-Kyv"; */
+"4lC-0U-Kyv.normalTitle" = "ВЫБРАТЬ ДРУГОЙ ПРЕДМЕТ";
+
+/* Class = "UIButton"; normalTitle = "Шығу"; ObjectID = "4wy-ZB-vIt"; */
+"4wy-ZB-vIt.normalTitle" = "Выход";
+
+/* Class = "UILabel"; text = "C)"; ObjectID = "5vn-Nd-sfE"; */
+"5vn-Nd-sfE.text" = "C)";
+
+/* Class = "UIBarButtonItem"; title = "Шығу"; ObjectID = "6Zv-rT-x36"; */
+"6Zv-rT-x36.title" = "Выход";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6bS-DW-yEt"; */
+"6bS-DW-yEt.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Құпия сөзді қайталаңыз"; ObjectID = "7Ce-9e-WqV"; */
+"7Ce-9e-WqV.placeholder" = "Повторите пароль";
+
+/* Class = "UIButton"; normalTitle = "Сізде аккаунт жоқ па? Тіркелу"; ObjectID = "7ZW-de-gqI"; */
+"7ZW-de-gqI.normalTitle" = "У вас нет аккаунта? Регистрация";
+
+/* Class = "UILabel"; text = "Оқу сауаттылығы"; ObjectID = "7ew-cN-ObX"; */
+"7ew-cN-ObX.text" = "Грамотность чтения";
+
+/* Class = "UILabel"; text = "A)"; ObjectID = "7iF-zh-va5"; */
+"7iF-zh-va5.text" = "A)";
+
+/* Class = "UITabBarItem"; title = "Мұрағат"; ObjectID = "7ve-qQ-kcM"; */
+"7ve-qQ-kcM.title" = "Архив";
+
+/* Class = "UITextField"; placeholder = "Логин қайталаңыз"; ObjectID = "82P-GW-eOY"; */
+"82P-GW-eOY.placeholder" = "Повторите email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8xV-Uq-7Mq"; */
+"8xV-Uq-7Mq.text" = "Label";
+
+/* Class = "UILabel"; text = "8772747377"; ObjectID = "9KA-KP-ltq"; */
+"9KA-KP-ltq.text" = "8772747377";
+
+/* Class = "UILabel"; text = "A)"; ObjectID = "9kU-z0-Sem"; */
+"9kU-z0-Sem.text" = "A)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BO7-rQ-bhn"; */
+"BO7-rQ-bhn.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Логин"; ObjectID = "Bs1-d7-Otd"; */
+"Bs1-d7-Otd.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "F)"; ObjectID = "C2Q-vd-PtV"; */
+"C2Q-vd-PtV.text" = "F)";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "CQe-iq-wD1"; */
+"CQe-iq-wD1.text" = "M";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Cf7-XI-Mbu"; */
+"Cf7-XI-Mbu.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Телефон нөміріңіз"; ObjectID = "D5Q-GG-4Vn"; */
+"D5Q-GG-4Vn.placeholder" = "Номер телефона";
+
+/* Class = "UIBarButtonItem"; title = "Шығу"; ObjectID = "EHa-GQ-0ac"; */
+"EHa-GQ-0ac.title" = "Выход";
+
+/* Class = "UILabel"; text = "35/40"; ObjectID = "EwI-c8-wtf"; */
+"EwI-c8-wtf.text" = "35/40";
+
+/* Class = "UILabel"; text = "F)"; ObjectID = "HUf-JD-nOm"; */
+"HUf-JD-nOm.text" = "F)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hdt-46-Sco"; */
+"Hdt-46-Sco.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hjd-9b-6KS"; */
+"Hjd-9b-6KS.text" = "Label";
+
+/* Class = "UILabel"; text = "B)"; ObjectID = "ILY-cA-80i"; */
+"ILY-cA-80i.text" = "B)";
+
+/* Class = "UILabel"; text = "H)"; ObjectID = "IdN-YH-da1"; */
+"IdN-YH-da1.text" = "H)";
+
+/* Class = "UISegmentedControl"; Ijj-3J-aTo.segmentTitles[0] = "Қаз. тарихы"; ObjectID = "Ijj-3J-aTo"; */
+"Ijj-3J-aTo.segmentTitles[0]" = "Каз. история";
+
+/* Class = "UISegmentedControl"; Ijj-3J-aTo.segmentTitles[1] = "Оқу сауаттылығы"; ObjectID = "Ijj-3J-aTo"; */
+"Ijj-3J-aTo.segmentTitles[1]" = "Грамотность чтения";
+
+/* Class = "UISegmentedControl"; Ijj-3J-aTo.segmentTitles[2] = "Мат. сауаттылық"; ObjectID = "Ijj-3J-aTo"; */
+"Ijj-3J-aTo.segmentTitles[2]" = "Мат. грамотность";
+
+/* Class = "UISegmentedControl"; Ijj-3J-aTo.segmentTitles[3] = "Таңдау пәні"; ObjectID = "Ijj-3J-aTo"; */
+"Ijj-3J-aTo.segmentTitles[3]" = "Таңдау пәні";
+
+/* Class = "UISegmentedControl"; Ijj-3J-aTo.segmentTitles[4] = "Таңдау пәні"; ObjectID = "Ijj-3J-aTo"; */
+"Ijj-3J-aTo.segmentTitles[4]" = "Таңдау пәні";
+
+/* Class = "UILabel"; text = "ұпай"; ObjectID = "JKr-tC-I4G"; */
+"JKr-tC-I4G.text" = "балл";
+
+/* Class = "UILabel"; text = "A)"; ObjectID = "JcV-vQ-abY"; */
+"JcV-vQ-abY.text" = "A)";
+
+/* Class = "UILabel"; text = "C)"; ObjectID = "K8V-vN-Fe7"; */
+"K8V-vN-Fe7.text" = "C)";
+
+/* Class = "UILabel"; text = "D)"; ObjectID = "KA2-ar-Mbn"; */
+"KA2-ar-Mbn.text" = "D)";
+
+/* Class = "UILabel"; text = "76838373738"; ObjectID = "KSa-Nh-5eu"; */
+"KSa-Nh-5eu.text" = "76838373738";
+
+/* Class = "UISegmentedControl"; KeN-al-8y5.segmentTitles[0] = "Қаз тарихы"; ObjectID = "KeN-al-8y5"; */
+"KeN-al-8y5.segmentTitles[0]" = "Каз. история";
+
+/* Class = "UISegmentedControl"; KeN-al-8y5.segmentTitles[1] = "Оқу сауаттылығы"; ObjectID = "KeN-al-8y5"; */
+"KeN-al-8y5.segmentTitles[1]" = " Грамотность чтения";
+
+/* Class = "UISegmentedControl"; KeN-al-8y5.segmentTitles[2] = "Мат. сауаттылық"; ObjectID = "KeN-al-8y5"; */
+"KeN-al-8y5.segmentTitles[2]" = "Мат. грамотность";
+
+/* Class = "UISegmentedControl"; KeN-al-8y5.segmentTitles[3] = "Таңдау пәні"; ObjectID = "KeN-al-8y5"; */
+"KeN-al-8y5.segmentTitles[3]" = "Таңдау пәні";
+
+/* Class = "UISegmentedControl"; KeN-al-8y5.segmentTitles[4] = "Таңдау пәні"; ObjectID = "KeN-al-8y5"; */
+"KeN-al-8y5.segmentTitles[4]" = "Таңдау пәні";
+
+/* Class = "UILabel"; text = "35"; ObjectID = "LDl-OS-GMO"; */
+"LDl-OS-GMO.text" = "35";
+
+/* Class = "UITextField"; placeholder = "Құпия сөз"; ObjectID = "LFf-QG-4xF"; */
+"LFf-QG-4xF.placeholder" = "Пароль";
+
+/* Class = "UILabel"; text = "Math"; ObjectID = "LVY-40-lHJ"; */
+"LVY-40-lHJ.text" = "Math";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "O6e-vv-l2e"; */
+"O6e-vv-l2e.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Құпия сөзді қайталаңыз"; ObjectID = "OIR-HQ-cS3"; */
+"OIR-HQ-cS3.placeholder" = "Повторите пароль";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ORW-0Z-Abp"; */
+"ORW-0Z-Abp.text" = "Label";
+
+/* Class = "UILabel"; text = "F)"; ObjectID = "Oyg-tu-abb"; */
+"Oyg-tu-abb.text" = "F)";
+
+/* Class = "UITextField"; placeholder = "ЖСН"; ObjectID = "P75-nO-QqN"; */
+"P75-nO-QqN.placeholder" = "ИИН";
+
+/* Class = "UILabel"; text = "ұпай"; ObjectID = "Pfm-ez-Kh9"; */
+"Pfm-ez-Kh9.text" = "балл";
+
+/* Class = "UILabel"; text = "Coming Soon!"; ObjectID = "Pil-h2-JL6"; */
+"Pil-h2-JL6.text" = "Coming Soon!";
+
+/* Class = "UIButton"; normalTitle = "  Balance: (0)+500$  "; ObjectID = "PoE-Ri-rfe"; */
+"PoE-Ri-rfe.normalTitle" = "  Balance: (0)+500$  ";
+
+/* Class = "UILabel"; text = "Үлкейтуге болады"; ObjectID = "QKY-Kg-kpY"; */
+"QKY-Kg-kpY.text" = "Можно увеличить";
+
+/* Class = "UIButton"; normalTitle = "ӨЗГЕРІСТІ САҚТАУ"; ObjectID = "RoN-uX-RUA"; */
+"RoN-uX-RUA.normalTitle" = "СОХРАНИТЬ ИЗМЕНЕНИЯ";
+
+/* Class = "UITextField"; placeholder = "Сынып"; ObjectID = "Rqa-FU-zlY"; */
+"Rqa-FU-zlY.placeholder" = "Класс";
+
+/* Class = "UILabel"; text = "Оқу сауаттылығы"; ObjectID = "SFZ-EB-gE9"; */
+"SFZ-EB-gE9.text" = "Грамотность чтения";
+
+/* Class = "UILabel"; text = "Тапсырған ҰБТ"; ObjectID = "SQY-6f-ABp"; */
+"SQY-6f-ABp.text" = "Число ЕНТ";
+
+/* Class = "UILabel"; text = "C)"; ObjectID = "SYW-BT-u6k"; */
+"SYW-BT-u6k.text" = "C)";
+
+/* Class = "UIButton"; normalTitle = "Мен келісемін"; ObjectID = "TBo-RU-veu"; */
+"TBo-RU-veu.normalTitle" = "Я согласен!";
+
+/* Class = "UILabel"; text = "Қазақстан тарихы"; ObjectID = "TKL-F7-CUT"; */
+"TKL-F7-CUT.text" = "История Казахстана";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UOB-O8-USS"; */
+"UOB-O8-USS.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Тестілеу"; ObjectID = "UQh-Eu-T0R"; */
+"UQh-Eu-T0R.title" = "Тестирование";
+
+/* Class = "UILabel"; text = "Мат. сауаттылық"; ObjectID = "VUv-WS-iEa"; */
+"VUv-WS-iEa.text" = "Мат. грамотность";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "VXR-0h-yP7"; */
+"VXR-0h-yP7.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "МҰРАҒАТ"; ObjectID = "Vdw-7Q-s8r"; */
+"Vdw-7Q-s8r.normalTitle" = "АРХИВ";
+
+/* Class = "UILabel"; text = "B)"; ObjectID = "Vpd-vH-0JH"; */
+"Vpd-vH-0JH.text" = "B)";
+
+/* Class = "UILabel"; text = "B)"; ObjectID = "Vu6-Ha-M0O"; */
+"Vu6-Ha-M0O.text" = "B)";
+
+/* Class = "UILabel"; text = "Қазақстан тарихы"; ObjectID = "Wtr-9y-bf1"; */
+"Wtr-9y-bf1.text" = "История Казахстана";
+
+/* Class = "UILabel"; text = "Математикалық сауаттылық"; ObjectID = "XHM-ed-hqq"; */
+"XHM-ed-hqq.text" = "Математическая грамотность";
+
+/* Class = "UITextField"; placeholder = "Қолданатын почтаңыз"; ObjectID = "XaK-fj-oku"; */
+"XaK-fj-oku.placeholder" = "Введите почту";
+
+/* Class = "UIBarButtonItem"; title = "Шығу"; ObjectID = "XbV-ta-NKL"; */
+"XbV-ta-NKL.title" = "Выход";
+
+/* Class = "UILabel"; text = "H)"; ObjectID = "Xee-pC-AZc"; */
+"Xee-pC-AZc.text" = "H)";
+
+/* Class = "UINavigationItem"; title = "Нәтиже"; ObjectID = "Xek-Jl-kQ2"; */
+"Xek-Jl-kQ2.title" = "Результат";
+
+/* Class = "UILabel"; text = "35/40"; ObjectID = "XzZ-Zw-xhu"; */
+"XzZ-Zw-xhu.text" = "35/40";
+
+/* Class = "UIButton"; normalTitle = "БАСҚА ПӘН ТАҢДАУ"; ObjectID = "YxY-mk-vus"; */
+"YxY-mk-vus.normalTitle" = "ВЫБРАТЬ ДРУГОЙ ПРЕДМЕТ";
+
+/* Class = "UIBarButtonItem"; title = "Шығу"; ObjectID = "Zja-qU-w4l"; */
+"Zja-qU-w4l.title" = "Выход";
+
+/* Class = "UINavigationItem"; title = "Тест"; ObjectID = "a4F-4d-qsG"; */
+"a4F-4d-qsG.title" = "Тест";
+
+/* Class = "UIButton"; normalTitle = "ҚҰПИЯ СӨЗДІ ҰМЫТТЫҢЫЗ БА?"; ObjectID = "aOA-j7-Jrj"; */
+"aOA-j7-Jrj.normalTitle" = "ЗАБЫЛИ ПАРОЛЬ?";
+
+/* Class = "UILabel"; text = "1 : 30 : 00"; ObjectID = "aRQ-Cp-rkU"; */
+"aRQ-Cp-rkU.text" = "1 : 30 : 00";
+
+/* Class = "UILabel"; text = "High:"; ObjectID = "ax9-9S-q4Y"; */
+"ax9-9S-q4Y.text" = "High:";
+
+/* Class = "UITabBarItem"; title = "Профиль"; ObjectID = "bMz-IB-MUz"; */
+"bMz-IB-MUz.title" = "Профиль";
+
+/* Class = "UILabel"; text = "35/40"; ObjectID = "c37-nT-AfX"; */
+"c37-nT-AfX.text" = "35/40";
+
+/* Class = "UITabBarItem"; title = "Тест"; ObjectID = "c82-BS-CvX"; */
+"c82-BS-CvX.title" = "Тест";
+
+/* Class = "UILabel"; text = "TomRiddle@gmail.com"; ObjectID = "cbX-fN-u1n"; */
+"cbX-fN-u1n.text" = "TomRiddle@gmail.com";
+
+/* Class = "UILabel"; text = "Math"; ObjectID = "chS-ky-NFv"; */
+"chS-ky-NFv.text" = "Math";
+
+/* Class = "UILabel"; text = "3 : 50 : 00"; ObjectID = "chh-hG-BRo"; */
+"chh-hG-BRo.text" = "3 : 50 : 00";
+
+/* Class = "UINavigationItem"; title = "Мұрағат"; ObjectID = "cqn-C8-HNd"; */
+"cqn-C8-HNd.title" = "Архив";
+
+/* Class = "UILabel"; text = "A)"; ObjectID = "crl-ht-9TX"; */
+"crl-ht-9TX.text" = "A)";
+
+/* Class = "UITextField"; placeholder = "Ескі құпия сөз"; ObjectID = "csq-fW-DxH"; */
+"csq-fW-DxH.placeholder" = "Старый пароль";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eON-bg-Dcx"; */
+"eON-bg-Dcx.text" = "Label";
+
+/* Class = "UILabel"; text = "D)"; ObjectID = "eOk-a4-9Xk"; */
+"eOk-a4-9Xk.text" = "D)";
+
+/* Class = "UITextField"; placeholder = "Тегіңіз"; ObjectID = "egW-bF-5ui"; */
+"egW-bF-5ui.placeholder" = "Фамилия";
+
+/* Class = "UILabel"; text = "Low:"; ObjectID = "eqy-ov-eLk"; */
+"eqy-ov-eLk.text" = "Low:";
+
+/* Class = "UILabel"; text = "E)"; ObjectID = "fA8-Nw-WLT"; */
+"fA8-Nw-WLT.text" = "E)";
+
+/* Class = "UILabel"; text = "E)"; ObjectID = "fJa-Sz-e9I"; */
+"fJa-Sz-e9I.text" = "E)";
+
+/* Class = "UILabel"; text = "D)"; ObjectID = "fwc-47-9nf"; */
+"fwc-47-9nf.text" = "D)";
+
+/* Class = "UILabel"; text = "G)"; ObjectID = "g2I-Xf-lQA"; */
+"g2I-Xf-lQA.text" = "G)";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "g3A-rO-IJg"; */
+"g3A-rO-IJg.text" = "M";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hGh-Xv-LLW"; */
+"hGh-Xv-LLW.text" = "Label";
+
+/* Class = "UILabel"; text = "C)"; ObjectID = "hMa-5X-ujt"; */
+"hMa-5X-ujt.text" = "C)";
+
+/* Class = "UILabel"; text = "G)"; ObjectID = "hVs-s8-Xgc"; */
+"hVs-s8-Xgc.text" = "G)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hXN-7Y-e8I"; */
+"hXN-7Y-e8I.text" = "Label";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "hdr-GW-wOf"; */
+"hdr-GW-wOf.text" = "M";
+
+/* Class = "UIButton"; normalTitle = "Хат жіберу"; ObjectID = "her-4A-WM4"; */
+"her-4A-WM4.normalTitle" = "Отправить письмо";
+
+/* Class = "UINavigationItem"; title = "Қалпына келтіру"; ObjectID = "huI-FL-6jZ"; */
+"huI-FL-6jZ.title" = "Восстановление";
+
+/* Class = "UILabel"; text = "35/40"; ObjectID = "iOE-Hy-bWL"; */
+"iOE-Hy-bWL.text" = "35/40";
+
+/* Class = "UILabel"; text = "О"; ObjectID = "ia1-Xv-V8Z"; */
+"ia1-Xv-V8Z.text" = "Г";
+
+/* Class = "UIButton"; normalTitle = "Тіркелу"; ObjectID = "ijx-PH-hOT"; */
+"ijx-PH-hOT.normalTitle" = "Регистрация";
+
+/* Class = "UINavigationItem"; title = "Тестілеу"; ObjectID = "jCb-0r-slZ"; */
+"jCb-0r-slZ.title" = "Тестирование";
+
+/* Class = "UILabel"; text = "E)"; ObjectID = "jg7-DT-YfG"; */
+"jg7-DT-YfG.text" = "E)";
+
+/* Class = "UIButton"; normalTitle = "Кіру"; ObjectID = "kEz-El-43b"; */
+"kEz-El-43b.normalTitle" = "Вход";
+
+/* Class = "UILabel"; text = "Үлкейтуге болады"; ObjectID = "kZn-8b-ZhE"; */
+"kZn-8b-ZhE.text" = "Можно увеличить";
+
+/* Class = "UITextField"; placeholder = "Құпия сөз"; ObjectID = "kbM-ol-De8"; */
+"kbM-ol-De8.placeholder" = "Пароль";
+
+/* Class = "UINavigationItem"; title = "Тестілеу"; ObjectID = "kdN-33-aDJ"; */
+"kdN-33-aDJ.title" = "Тестирование";
+
+/* Class = "UITextField"; placeholder = "Атыңыз"; ObjectID = "lCD-tx-PMk"; */
+"lCD-tx-PMk.placeholder" = "Имя";
+
+/* Class = "UITextField"; placeholder = "Логин"; ObjectID = "lGM-uK-LZK"; */
+"lGM-uK-LZK.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Мағұлмат:"; ObjectID = "lIO-ZX-Ybb"; */
+"lIO-ZX-Ybb.text" = "Информация:";
+
+/* Class = "UINavigationItem"; title = "Тіркелу"; ObjectID = "m0j-rc-noP"; */
+"m0j-rc-noP.title" = "Регистрация";
+
+/* Class = "UILabel"; text = "Қ"; ObjectID = "mlK-VG-hqZ"; */
+"mlK-VG-hqZ.text" = "И";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n5P-YH-M6m"; */
+"n5P-YH-M6m.text" = "Label";
+
+/* Class = "UILabel"; text = "F)"; ObjectID = "nrd-oQ-ekH"; */
+"nrd-oQ-ekH.text" = "F)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "o3z-YT-XEa"; */
+"o3z-YT-XEa.text" = "Label";
+
+/* Class = "UILabel"; text = "D)"; ObjectID = "oha-Hi-mgq"; */
+"oha-Hi-mgq.text" = "D)";
+
+/* Class = "UILabel"; text = "H)"; ObjectID = "ptO-BA-kXu"; */
+"ptO-BA-kXu.text" = "H)";
+
+/* Class = "UILabel"; text = "Тапсырған пән"; ObjectID = "q2N-Hd-5jn"; */
+"q2N-Hd-5jn.text" = "Число предметов";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "qOG-oG-s7L"; */
+"qOG-oG-s7L.text" = "M";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qZB-aI-haA"; */
+"qZB-aI-haA.text" = "Label";
+
+/* Class = "UILabel"; text = "Таңдау пәндері:"; ObjectID = "qkg-Cm-Y5e"; */
+"qkg-Cm-Y5e.text" = "Предметы выбора:";
+
+/* Class = "UINavigationItem"; title = "Тестілеу"; ObjectID = "r6e-Xt-zza"; */
+"r6e-Xt-zza.title" = "Тестирование";
+
+/* Class = "UITextField"; placeholder = "Жаңа құпия сөз"; ObjectID = "rDl-B9-2kp"; */
+"rDl-B9-2kp.placeholder" = "Новый пароль";
+
+/* Class = "UIButton"; normalTitle = "Келісім шарт!"; ObjectID = "rH5-kj-mxg"; */
+"rH5-kj-mxg.normalTitle" = "Условия соглашения!";
+
+/* Class = "UILabel"; text = "Үлкейтуге болады"; ObjectID = "rVz-HQ-XLh"; */
+"rVz-HQ-XLh.text" = "Можно увеличить";
+
+/* Class = "UILabel"; text = "E)"; ObjectID = "sPE-jS-hYM"; */
+"sPE-jS-hYM.text" = "E)";
+
+/* Class = "UILabel"; text = "35"; ObjectID = "stx-Nk-w98"; */
+"stx-Nk-w98.text" = "35";
+
+/* Class = "UILabel"; text = "Абылай Кайырбеков"; ObjectID = "t2j-07-cvG"; */
+"t2j-07-cvG.text" = "Абылай Кайырбеков";
+
+/* Class = "UINavigationItem"; title = "Нәтиже"; ObjectID = "tL8-Ge-dVO"; */
+"tL8-Ge-dVO.title" = "Результат";
+
+/* Class = "UILabel"; text = "Math"; ObjectID = "v6W-4G-aCa"; */
+"v6W-4G-aCa.text" = "Math";
+
+/* Class = "UISegmentedControl"; vxR-0Z-meQ.segmentTitles[0] = "ҰБТ"; ObjectID = "vxR-0Z-meQ"; */
+"vxR-0Z-meQ.segmentTitles[0]" = "ЕНТ";
+
+/* Class = "UISegmentedControl"; vxR-0Z-meQ.segmentTitles[1] = "Пән бойынша"; ObjectID = "vxR-0Z-meQ"; */
+"vxR-0Z-meQ.segmentTitles[1]" = "ПО ПРЕДМЕТУ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wZo-xv-MXR"; */
+"wZo-xv-MXR.text" = "Label";
+
+/* Class = "UILabel"; text = "H)"; ObjectID = "weA-Gf-7Rd"; */
+"weA-Gf-7Rd.text" = "H)";
+
+/* Class = "UITextField"; placeholder = "Туған күніңіз (жжжж-аа-кк)"; ObjectID = "xFs-x3-rRf"; */
+"xFs-x3-rRf.placeholder" = "дата рождения (гггг-мм-дд)";
+
+/* Class = "UIButton"; normalTitle = "Өзгерту"; ObjectID = "xPF-UU-FC7"; */
+"xPF-UU-FC7.normalTitle" = "Изменить";
+
+/* Class = "UILabel"; text = "Құпия сөз өзгерту:"; ObjectID = "yFb-jn-Cbt"; */
+"yFb-jn-Cbt.text" = "Изменить пароль:";
+
+/* Class = "UINavigationItem"; title = "Төлем тарихы"; ObjectID = "yPr-lA-Xoh"; */
+"yPr-lA-Xoh.title" = "История оплаты";
+
+/* Class = "UILabel"; text = "B)"; ObjectID = "yU6-dp-x3T"; */
+"yU6-dp-x3T.text" = "B)";
+
+/* Class = "UILabel"; text = "G)"; ObjectID = "yhV-h3-EZ6"; */
+"yhV-h3-EZ6.text" = "G)";
+
+/* Class = "UIButton"; normalTitle = "ҚҰПИЯ СӨЗДІ ӨЗГЕРТУ"; ObjectID = "z7J-zu-gU5"; */
+"z7J-zu-gU5.normalTitle" = "ИЗМЕНИТЬ ПАРОЛЬ";
+
+/* Class = "UITextField"; placeholder = "Мектеп"; ObjectID = "zZZ-Iz-baU"; */
+"zZZ-Iz-baU.placeholder" = "Школа";
+
+/* Class = "UILabel"; text = "G)"; ObjectID = "zj3-c9-1Mw"; */
+"zj3-c9-1Mw.text" = "G)";
